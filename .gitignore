@@ -5,4 +5,5 @@ pix2pix/datasets/E
 pix2pix/datasets/M
 pix2pix/datasets/ori
 pix2pix/datasets/ori.zip
-pix2pix/cehckpoints
+pix2pix/checkpoints
+.idea
